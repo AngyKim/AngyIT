@@ -12,7 +12,7 @@ A hands-on project setting up secure remote access to an Azure VM using Azure Ba
 
 
 ### 1. Deployed a Windows Server Virtual Machine
-![Create VM](images/01-create-vm.png)
+![Create VM](images/01-create-vm)
 Created the VM using the Standard_D2s_v3 size.
 
 ### 2. IP Configurations
