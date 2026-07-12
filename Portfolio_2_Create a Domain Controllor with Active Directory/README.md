@@ -7,6 +7,7 @@ A hands-on project setting up a Windows Server instance and promoting it to a Do
 - Active Directory Domain Services (AD DS)
 - Active Directory Users and Computers (ADUC)
 
+
 ## Build Process
 
 ### 1. Promoted the server to a Domain Controller
@@ -17,12 +18,19 @@ Installed the AD DS role and promoted the server to a domain controller.
 ![ADUC Console](images/02-adds-usersandcomputers.png)
 Opened Active Directory Users and Computers to manage the domain.
 
+## Organized Active Directory structure
+Created a top-level OU named "Branch 1" to simulate an organizational branch, 
+under which Users, Computers, and Groups were structured.
+
+### 3.Users OU
 ![Users OU](images/04-Users-OU.png)
 Created a Users folder to manage domain user accounts.
 
+### 4. Computers OU
 ![Computers OU](images/03-ADUC.png)
 Created a Computers folder to manage domain-joined machines.
 
+### 5. Groups OU
 ![Groups OU](images/03-ADUC.png)
 Created a Groups folder to manage security/distribution groups.
 
