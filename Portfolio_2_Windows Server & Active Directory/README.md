@@ -18,15 +18,11 @@ Deployed a Windows Server instance to use as the domain controller.
 ![Promote DC](images/02-adds-usersandcomputers.png)
 Installed the AD DS role and promoted the server to a domain controller.
 
-### 3. Verified the promotion
-![DC Promoted](images/03-dc-promoted.png)
-Confirmed the server restarted successfully as a domain controller.
-
-### 4. Organized Active Directory structure
-![ADUC Console](images/04-aduc-console.png)
+### 3. Organized Active Directory structure
+![ADUC Console](images/03-ADUC.png)
 Opened Active Directory Users and Computers to manage the domain.
 
-![Users OU](images/05-users-ou.png)
+![Users OU](images/04-Users-OU.png)
 Created a Users folder to manage domain user accounts.
 
 ![Computers OU](images/06-computers-ou.png)
