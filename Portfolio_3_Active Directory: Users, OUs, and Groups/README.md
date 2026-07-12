@@ -47,11 +47,6 @@ Created a Groups OU under Branch 1 to manage security/distribution groups.
 
 Add a member in the Group (IT workers)
 
-### 3-2. Groups OU: Add Members
-![Groups Add](images/03-groups-01-addmember.png)
-
-Add a member in the Group (IT workers)
-
 ### 4. Add a Description in User Properties
 ![Add Organization](images/04-add-organization.png)
 
