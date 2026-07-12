@@ -15,7 +15,7 @@ A hands-on project setting up a Windows Server instance and promoting it to a Do
 Deployed a Windows Server instance to use as the domain controller.
 
 ### 2. Promoted the server to a Domain Controller
-![Promote DC](images/02-promote-dc.png)
+![Promote DC](images/usersandcomputers.png)
 Installed the AD DS role and promoted the server to a domain controller.
 
 ### 3. Verified the promotion
