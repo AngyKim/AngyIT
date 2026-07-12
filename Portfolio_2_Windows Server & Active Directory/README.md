@@ -1,4 +1,4 @@
-# Windows Server & Active Directory Project
+# Create a Domain Controlloer in Windows Server
 
 ## Overview
 A hands-on project setting up a Windows Server instance and promoting it to a Domain Controller, then organizing Active Directory with Users, Computers, and Groups.
