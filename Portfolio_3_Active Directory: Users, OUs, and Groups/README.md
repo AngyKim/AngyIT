@@ -57,11 +57,6 @@ Add descriptions in the user's organization tab.
 
 Edit the Email Address due to user's Email address has been changed.
 
-### . Computers OU 
-![Computers OU](images/03-computers-ou.png)
-
-Created a Computers OU under Branch 1 to manage domain-joined machines.
-
 
 ## What I Learned
 - Learned how OUs help organize and delegate control within Active Directory.
